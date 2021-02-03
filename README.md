@@ -8,7 +8,7 @@
 <sub>*Data Scientist*</sub>
 
 In this post I explain the main functions of <a href=https://github.com/jsvine/pdfplumber/blob/stable/examples/notebooks/extract-table-ca-warn-report.ipynb>PDF Plumber</a>, an open-source Python package that helps Data Scientists <br>
-to extract texts from PDF files, something that is so simple but many professionals struggle with it.<br>
+to extract texts from PDF files, something that is so simple but many professionals struggle with.<br>
 <br>
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-porfirio-purgato-7891401b3/)
